@@ -1,0 +1,4 @@
+holehe>=1.61
+phonenumbers>=8.13.0
+requests>=2.31.0
+rich>=13.7.0
